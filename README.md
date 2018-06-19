@@ -3,7 +3,10 @@
 [![Slack Status](https://img.shields.io/badge/Slack_Channel-dc--geospatial-E01563.svg)](https://swcarpentry.slack.com/messages/C9ME7G5RD)
 
 
-# R for Raster and Vector Data
+# R for Raster and Vector Data at DIBSI 2018
+Welcome to a trial run of the new Carpentries Geospatial Curriculum at the Data Intensive Biology Summer Institute (DIBSI) at UC Davis!  We'll work through the lessons and report back on how awesome they are.
+
+
 
 ## Contributing to lesson development
 
